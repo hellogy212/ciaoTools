@@ -1,5 +1,4 @@
 # ciaoTools
-ciaoTools
 
 ### Welcome to CiaoTools
 
